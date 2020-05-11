@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Harmoni is an web-application developed by team 5 in the subject TDAT2003 Systemutvikling 2. 
+Harmoni is an web-application developed by team 5 in the subject TDAT2003 Software Engineering 2 with web applications. 
 
 The project ended with the grade A. 
 
